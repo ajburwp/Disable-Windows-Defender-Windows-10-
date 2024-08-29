@@ -1,0 +1,18 @@
+18,101 views  Sep 19, 2021
+How to Turn off Windows 10 Defender on Permanently |Disable or Enable Windows Defender in Windows 10
+How to Permanently Disable Windows Defender on Windows 10 |Disable or Enable Windows Defender win10
+DISABLING STEPS
+Go to RUN command and then type   regedit
+ 
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+
+New,  DWORD (32-bit) Value and name it DisableAntiSpyware
+
+Set the value from to 1
+FOR enabling follow the same steps and delete the the file which u created 
+
+IF YOU ISSUE IS SOLVED LIKE AND SUBCRIBE OUR CHANNEL
+ALSO COMMENT FOR ANY ISSUE AND TOPIC IN WHICH I WILL MAKE A VIDEO 
+THANK YOU GUYS
+wp.ajbur
